@@ -78,12 +78,33 @@ body {
     height: 120%;
     left: -110%;
     top: 90%;
-    background: #3498db;
+/*    background: #3498db;*/
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
     -moz-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     -o-transform: rotate(45deg);
+}
+
+
+.btn:nth-child(1)::before {
+    background: #3b5998;
+}
+
+.btn:nth-child(2)::before  {
+    background: #1ea2f3;
+}
+
+.btn:nth-child(3)::before  {
+    background: #8a3ab9;
+}
+
+.btn:nth-child(4)::before  {
+    background: #0077b5;
+}
+
+.btn:nth-child(5)::before  {
+    background: #c4302b ;
 }
 
 .btn:hover::before {
