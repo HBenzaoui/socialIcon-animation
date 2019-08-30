@@ -15,12 +15,16 @@ body {
     -o-transform: translateY(-50%);
 }
 
-.btn{
+.btn {
     display: inline-block;
     width: 90px;
     height: 90px;
     background: #f1f1f1;
     margin: 10px;
+    box-shadow: 0 5px 15px -5px #00000070;
     border-radius: 30%;
-    
+    -webkit-border-radius: 30%;
+    -moz-border-radius: 30%;
+    -ms-border-radius: 30%;
+    -o-border-radius: 30%;
 }
