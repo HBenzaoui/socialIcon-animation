@@ -4,4 +4,4 @@ This is a cool animation for social icons using only css
 
 Demo
 
-![](/img/gif.gif)
+![](gif.gif)
