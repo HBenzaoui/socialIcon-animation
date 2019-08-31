@@ -1,6 +1,6 @@
 # socialIcon-animation
 
-This is a cool animation for social icons using only css
+This is a cool animation for social icons i have made using only css
 
 Demo
 
